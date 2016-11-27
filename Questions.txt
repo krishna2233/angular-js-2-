@@ -2,8 +2,11 @@ functional
 
 modules 
 
-technogies
+technogies/angular js 2
 
 application do
 
 environement
+
+Node js 
+
