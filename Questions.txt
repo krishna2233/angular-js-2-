@@ -7,11 +7,11 @@ technogies/angular js 2
 application do
 
 environement
+test
 
 Node js 
 
-<<<<<<< HEAD
+
 Webstorm 
-=======
+
 Node zj
->>>>>>> 49a9391dbaa798739376800db372948549360ec4
